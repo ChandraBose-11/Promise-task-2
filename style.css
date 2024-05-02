@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    background-color:pink !important;
+
+}
+h1{
+    text-align: center;
+}
+.card{
+      text-align: center;
+      border: 2px solid black;
+}
+.btn{
+    width: auto !important;
+    text-align: center !important;
+    margin-left: 47% !important;
+}
+.image{
+    background-color:pink !important;
+}
+.card-body{
+    background-color: pink !important;
+
+}
